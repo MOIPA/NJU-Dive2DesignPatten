@@ -5,5 +5,6 @@ public class TheaterLights {
     }
 
     public void dim(int i) {
+
     }
 }
